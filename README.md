@@ -1,10 +1,10 @@
 🥇 Olympic Gold Medal Predictor
 This project leverages Python and machine learning to analyze over a century's worth of Olympic gold medal data and predict future gold medal winners by country.
 
-📊 Overview
+Overview
 The goal of this project is to explore historical Olympic data, identify trends, and use those insights to forecast which countries are most likely to win future gold medals. Using Python's data structures such as sets, maps, lists, and vectors, this analysis draws from a large dataset of past Olympic performances.
 
-🧠 Key Features
+Key Features
 Data Analysis:
 
 Reads and parses historical Olympic gold medal data.
@@ -21,7 +21,7 @@ Visualization:
 
 Graphs generated from the model to visualize trends and prediction outcomes.
 
-🛠 Technologies Used
+Technologies Used
 Python: Core programming language for logic and data handling.
 
 TensorFlow: For building and training the neural network.
